@@ -1,0 +1,9 @@
+{
+    "name": "Foundation Toast Notifications",
+    "namespace": "foundation",
+    "url": "https://devdojo.com/foundation/plugin/foundation/toast",
+    "description": "This plugin adds toast notifications to your applications.",
+    "version": "1.0",
+    "author": "Tony Lea",
+    "author_url": "https://tonylea.com"
+}
